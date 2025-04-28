@@ -35,7 +35,6 @@
 .newsletter-input {
     flex: 1;
     padding: 10px 15px;
-    border: 1px solid var(--color-border);
     border-radius: 4px;
     font-size: 14px;
 }
