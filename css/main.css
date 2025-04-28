@@ -1,0 +1,12 @@
+/* Importação de todos os arquivos CSS */
+@import 'variables.css';
+@import 'base.css';
+@import 'buttons.css';
+@import 'header.css';
+@import 'hero.css';
+@import 'benefits.css';
+@import 'cta.css';
+@import 'testimonials.css';
+@import 'impact.css';
+@import 'footer.css';
+@import 'responsive.css';
