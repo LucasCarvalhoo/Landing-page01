@@ -1,0 +1,40 @@
+.hero {
+    padding: 60px 0;
+    border: 1px solid var(--color-border);
+    margin: 15px;
+}
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.hero-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.hero-title {
+    font-size: 42px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    color: var(--color-primary);
+}
+
+.hero-text {
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+.hero-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.hero-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
