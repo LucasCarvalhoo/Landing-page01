@@ -1,0 +1,47 @@
+.cta {
+    padding: 30px 0;
+    background-color: var(--color-dark-bg);
+    color: white;
+    margin: 15px;
+}
+
+.cta-container {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.cta-content {
+    flex: 1;
+    padding-right: 20px;
+}
+
+.cta-title {
+    font-size: 32px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.cta-text {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.cta-buttons {
+    display: flex;
+    gap: 15px;
+}
+
+.cta-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Placeholder menor para a seção CTA */
+.cta .image-placeholder {
+    height: 225px; /* Metade da altura normal */
+}
