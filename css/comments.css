@@ -1,10 +1,7 @@
 .content4 {
     display: flex;
     margin-top: 2rem;
-}
-
-.card-content {
-    margin-right: 2rem;
+    gap: 7rem;
 }
 
 .card-content div {

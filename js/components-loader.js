@@ -7,6 +7,7 @@ class ComponentsLoader {
         this.componentsPath = 'components/';
         this.components = [
             { id: 'content-comments', file: 'comments.html' },
+            { id: 'landing-intro', file: 'landing-intro.html' },
             
         ];
     }
